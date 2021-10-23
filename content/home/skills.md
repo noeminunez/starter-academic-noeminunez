@@ -17,17 +17,17 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: apple
+  icon: windows
   icon_pack: fab
   name: Microsoft Office Suite
 - description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
+  icon: comment
+  icon_pack: far
+  name: Bilingual - Spanish
 - description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  icon: code
+  icon_pack: fab
+  name: Coding
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
