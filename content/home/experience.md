@@ -24,11 +24,11 @@ date_format: Jan 2006
 experience:
   - title: Graduate Research Assistant
     company: UCF University Writing Center
-    company_url: ''
+    company_url: 
     company_logo: org-gc
-    location: California
+    location:
     date_start: '2021-08-08'
-    date_end: ''
+    date_end: 
     description: |2-
         Responsibilities include:
         
