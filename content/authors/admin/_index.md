@@ -26,7 +26,7 @@ interests:
 education:
   courses:
   - course: PhD in Texts & Technology 
-    institution: University of Central
+    institution: University of Central Florida
     year: 2025
   - course: MA in Composition, Rhetoric, and Digital Media
     institution: Nova Southeastern University 
