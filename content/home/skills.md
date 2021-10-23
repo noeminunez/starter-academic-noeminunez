@@ -26,7 +26,7 @@ feature:
   name: Bilingual - Spanish
 - description: 10%
   icon: code
-  icon_pack: fab
+  icon_pack: fas
   name: Coding
 
 # Uncomment to use emoji icons.
