@@ -25,7 +25,7 @@ experience:
   - title: Graduate Research Assistant
     company: UCF University Writing Center
     company_url: ''
-    company_logo: org-gc
+    company_logo: ''
     location: ''
     date_start: '2021-08-01'
     date_end: ''
