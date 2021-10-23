@@ -17,9 +17,9 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: r-project
+  icon: <i class="fab fa-windows"></i>
   icon_pack: fab
-  name: R
+  name: Microsoft Office Suite
 - description: 100%
   icon: chart-line
   icon_pack: fas
