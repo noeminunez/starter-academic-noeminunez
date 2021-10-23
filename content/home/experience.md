@@ -45,6 +45,6 @@ experience:
 #    date_end:
 #    description:
 
-design:
-  columns: '2'
+# design:
+#  columns: '2'
 ---
