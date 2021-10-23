@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: <i class="fab fa-windows"></i>
+  icon: apple
   icon_pack: fab
   name: Microsoft Office Suite
 - description: 100%
