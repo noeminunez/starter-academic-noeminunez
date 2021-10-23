@@ -26,7 +26,7 @@ experience:
     company: UCF University Writing Center
     company_url: ''
     company_logo: org-gc
-    location:
+    location: ''
     date_start: '2021-08-01'
     date_end: ''
     description: |2-
@@ -36,14 +36,14 @@ experience:
         * Creating marketing materials to promote space
         * Complete duties as assigned by the director
         
-  - title: 
-    company: 
-    company_url: ''
-    company_logo: 
-    location: 
-    date_start: 
-    date_end: 
-    description: 
+#  - title:
+#    company:
+#    company_url: ''
+#    company_logo: 
+#    location: 
+#    date_start:
+#    date_end:
+#    description:
 
 design:
   columns: '2'
