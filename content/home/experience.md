@@ -36,14 +36,20 @@ experience:
         * Creating marketing materials to promote space
         * Complete duties as assigned by the director
         
-#  - title:
-#    company:
-#    company_url: ''
-#    company_logo: 
-#    location: 
-#    date_start:
-#    date_end:
-#    description:
+ - title: Graduate Assistant Coordinator
+   company: Nova Southeastern University
+   company_url: ''
+   company_logo: '' 
+   location: '' 
+   date_start: '2021-08-01'
+   date_end: '2021-08-01'
+   description: |2- 
+        Responsibilites include:
+
+        * General clerical duties
+        * Assisted the department chair, faculty, and staff with special projects and recruitment
+        * Prepared and updated couse schedules and book orders
+        * Scheduled meetings, appointments, and events and coordinated travel to ensure timely scheduling
 
 # design:
 #  columns: '2'
