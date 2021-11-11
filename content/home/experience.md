@@ -32,10 +32,10 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Conducting one-to-one writing consultations 
-        * Creating marketing materials to promote space
-        * Complete duties as assigned by the director  
-        
+        * Conducting one-to-one writing consultations. 
+        * Creating marketing materials to promote space.
+        * Complete duties as assigned by the director.  
+
  - title: Administrative Assistant
    company: Nova Southeastern University Department of Communication, Media, and the Arts
    company_url: ''
@@ -46,10 +46,10 @@ experience:
    description: |2- 
         Responsibilites include:
 
-        * General clerical duties
-        * Assisted the department chair, faculty, and staff with special projects and recruitment
-        * Prepared and updated couse schedules and book orders
-        * Scheduled meetings, appointments, and events and coordinated travel to ensure timely scheduling
+        * General clerical duties.
+        * Assisted the department chair, faculty, and staff with special projects and recruitment.
+        * Prepared and updated couse schedules and book orders.
+        * Scheduled meetings, appointments, and events and coordinated travel to ensure timely scheduling.
 
 # design:
 #  columns: '2'
