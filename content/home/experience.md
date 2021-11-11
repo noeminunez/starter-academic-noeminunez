@@ -51,6 +51,6 @@ experience:
         * Prepared and updated couse schedules and book orders.
         * Scheduled meetings, appointments, and events and coordinated travel to ensure timely scheduling.
 
-#design:
-#columns: '2'
+design:
+  columns: '2'
 ---
