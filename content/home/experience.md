@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Graduate Research Assistant
-    company: UCF University Writing Center
+    company: University of Central Florida University Writing Center
     company_url: ''
     company_logo: ''
     location: ''
