@@ -32,9 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Conducting one-to-one writing consultations. 
+        * Conducting one-to-one writing consultations.
         * Creating marketing materials to promote space.
-        * Complete duties as assigned by the director.  
+        * Complete duties as assigned by the director.
 
  - title: Administrative Assistant
    company: Nova Southeastern University Department of Communication, Media, and the Arts
@@ -51,6 +51,6 @@ experience:
         * Prepared and updated couse schedules and book orders.
         * Scheduled meetings, appointments, and events and coordinated travel to ensure timely scheduling.
 
-design:
-columns: '2'
+#design:
+#columns: '2'
 ---
