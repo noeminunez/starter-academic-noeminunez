@@ -36,6 +36,7 @@ experience:
         * Creating marketing materials to promote space.
         * Complete duties as assigned by the director.
 
+experience:
  - title: Administrative Assistant
    company: Nova Southeastern University Department of Communication, Media, and the Arts
    company_url: ''
