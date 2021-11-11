@@ -37,13 +37,13 @@ experience:
         * Complete duties as assigned by the director.
 
   - title: Administrative Assistant
-   company: Nova Southeastern University Department of Communication, Media, and the Arts
-   company_url: ''
-   company_logo: '' 
-   location: '' 
-   date_start: '2017-08-01'
-   date_end: '2019-08-01'
-   description: |2- 
+    company: Nova Southeastern University Department of Communication, Media, and the Arts
+    company_url: ''
+    company_logo: '' 
+    location: '' 
+    date_start: '2017-08-01'
+    date_end: '2019-08-01'
+    description: |2- 
         Responsibilites include:
 
         * General clerical duties.
